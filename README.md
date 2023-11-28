@@ -1,3 +1,5 @@
+![status](https://badgen.net/static/status/planned/grey/)
+
 # Rust sentence generator
 
 This repository contains code of a learning project called: "Rust sentence generator".
